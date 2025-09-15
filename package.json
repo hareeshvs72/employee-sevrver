@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.12.1",
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "employee-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
